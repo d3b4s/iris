@@ -17,7 +17,7 @@ Iris is not only another framework. It is a methodology that will help you to bu
 
 
 ## API
-http://intelygenz.github.com/iris/api/v0.4.5/
+http://intelygenz.github.com/iris/api/v0.5.0
 
 ## Getting Started
 https://github.com/intelygenz/iris/wiki/Getting-Started
@@ -33,11 +33,11 @@ https://github.com/intelygenz/iris/wiki/Examples
 
 ## Installation
 
-Download the lastest version from http://intelygenz.github.com/iris/
+Download the lastest version from http://iris-js.github.com/iris/
 
 ```html
-<script type='text/javascript' src="iris-0.4.5.min.js"></script>
+<script type='text/javascript' src="iris-0.5.0.min.js"></script>
 ```
 
 Iris requires *JQuery 1.5+*:
-http://jquery.com/
+http://www.jquery.com/
